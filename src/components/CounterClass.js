@@ -1,6 +1,6 @@
 import React from "react";
 
-class CounterClassComponent extends React.Component {
+class CounterClass extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -10,14 +10,14 @@ class CounterClassComponent extends React.Component {
 
     render() {
         return (
-            <>
+            <div>
                 <p>You have clicked {this.state.count} times.</p>
                 <button onClick={() => this.setState({ count: this.state.count + 1})}>
                     Click me
                 </button>
-            </>
+            </div>
         )
     }
 }
 
-export default CounterClassComponent;
+export default CounterClass;
