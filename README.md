@@ -70,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-[//]: # reference: https://developer.okta.com/blog/2020/08/26/react-hooks
+[//]: # reference: https://betterprogramming.pub/some-best-practices-for-building-a-react-app-with-hooks-d6157494f5c1

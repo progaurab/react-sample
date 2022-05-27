@@ -1,16 +1,9 @@
 import React from 'react';
 import './App.css';
-import { Search } from './Search';
+import CountriesContainer from "./components/CountriesContainer";
 
-function App() {
-  return (
-    <div className="App">
-      <header>
-        Books with Hooks
-      </header>
-      <Search/>
-    </div>
-  );
-}
+const App = () => {
+  return <CountriesContainer />;
+};
 
 export default App;
